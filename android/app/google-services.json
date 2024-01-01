@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "999481439444",
+    "project_id": "smartseva",
+    "storage_bucket": "smartseva.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999481439444:android:81949e837d6995b469f741",
+        "android_client_info": {
+          "package_name": "com.smartseva.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999481439444-h3ejhbben4gghg9c8q5e212gilfsq7ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCtAr4DrcIRObZ1eg4NhjKPmg-Vntr5V8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999481439444-h3ejhbben4gghg9c8q5e212gilfsq7ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999481439444:android:38549a2dfc7df3e669f741",
+        "android_client_info": {
+          "package_name": "com.smartseva.partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999481439444-h3ejhbben4gghg9c8q5e212gilfsq7ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCtAr4DrcIRObZ1eg4NhjKPmg-Vntr5V8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999481439444-h3ejhbben4gghg9c8q5e212gilfsq7ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
